@@ -1,0 +1,22 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Building a web scraper using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blake-Hansen/web-Scraper.git"
+  },
+  "author": "Blake Hansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blake-Hansen/web-Scraper/issues"
+  },
+  "homepage": "https://github.com/blake-Hansen/web-Scraper#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
